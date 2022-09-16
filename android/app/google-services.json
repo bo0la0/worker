@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "236422918539",
+    "firebase_url": "https://tourism-45327-default-rtdb.firebaseio.com",
+    "project_id": "tourism-45327",
+    "storage_bucket": "tourism-45327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236422918539:android:607980033edca5be91ff8e",
+        "android_client_info": {
+          "package_name": "com.example.projecttourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzlKh6PdF0QhlfVfrQQ4tk-GwHGGpWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236422918539-qdmms2eoeuivifr4ae6c3ash8r9e7040.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tourista.tourista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236422918539:android:54b82bde979b7b0e91ff8e",
+        "android_client_info": {
+          "package_name": "com.example.tourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzlKh6PdF0QhlfVfrQQ4tk-GwHGGpWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236422918539-qdmms2eoeuivifr4ae6c3ash8r9e7040.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tourista.tourista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236422918539:android:059e62384750870f91ff8e",
+        "android_client_info": {
+          "package_name": "com.example.touristam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzlKh6PdF0QhlfVfrQQ4tk-GwHGGpWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236422918539-qdmms2eoeuivifr4ae6c3ash8r9e7040.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tourista.tourista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236422918539:android:ca034148fb2ff4cc91ff8e",
+        "android_client_info": {
+          "package_name": "com.tourista.tourista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236422918539-6sqkakpqasqudsskq0vbvp2ehj4hpaie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourista.tourista",
+            "certificate_hash": "a42562244799d6ee79a1e01c374990a599d68114"
+          }
+        },
+        {
+          "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzlKh6PdF0QhlfVfrQQ4tk-GwHGGpWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236422918539-ci5b80lgt8i6iuoco9530kv49j46an31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236422918539-qdmms2eoeuivifr4ae6c3ash8r9e7040.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tourista.tourista"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
